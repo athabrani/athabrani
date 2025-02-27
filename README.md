@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi There , I'm Athalah Sarbrani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-I am a computer engineering student, currently halfway through my degree. I aam a software engineer enthusiast
+<h3>I am a computer engineering student, currently halfway through my degree.<u>I am a software engineer enthusiast 👾 </u></h3> 
 
 <div align=center >
-  <img src="![](https://github-readme-stats.vercel.app/api?username=athabrani&theme=dark&hide_border=true&include_all_commits=true&count_private=true)" height="150" alt="stats graph" />
-  <img src="![](https://github-readme-stats.vercel.app/api/top-langs/?username=athabrani&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)" height="150"     alt="commits graph"/>
+  ![](https://github-readme-stats.vercel.app/api?username=athabrani&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=athabrani&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 # 💻 Tech Stack:
