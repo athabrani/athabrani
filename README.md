@@ -22,7 +22,8 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div>
-## 🌐 Socials:
+
+# 🌐 Socials:
 
 <div align="center">
   <a href="https://www.instagram.com/athalahsrb/" target="_blank">
