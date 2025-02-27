@@ -3,8 +3,8 @@
 <h3>I am a computer engineering student, currently halfway through my degree.<u>I am a software engineer enthusiast 👾 </u></h3> 
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=athabrani&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height=150 alt=stats />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athabrani&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height=150 alt=commit />
+  <img src="https://github-readme-stats.vercel.app/api?username=athabrani&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height=150 alt=stats />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athabrani&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height=150 alt=commit />
 </div>
 
 # 💻 Tech Stack:
